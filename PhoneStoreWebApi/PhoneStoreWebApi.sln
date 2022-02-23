@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneStoreWebApi", "PhoneStoreWebApi\PhoneStoreWebApi.csproj", "{A924EF3C-C14A-403D-9D57-1F14FE2639A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A924EF3C-C14A-403D-9D57-1F14FE2639A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A924EF3C-C14A-403D-9D57-1F14FE2639A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A924EF3C-C14A-403D-9D57-1F14FE2639A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A924EF3C-C14A-403D-9D57-1F14FE2639A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E00D0F9-B2AF-4729-AD79-73C7B5C32592}
+	EndGlobalSection
+EndGlobal
